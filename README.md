@@ -1,2 +1,2 @@
 # LeetCodeCPP
-C++ [LeetCode](https://leetcode.com) solution
+C++ [LeetCode](https://leetcode.com) solutions
